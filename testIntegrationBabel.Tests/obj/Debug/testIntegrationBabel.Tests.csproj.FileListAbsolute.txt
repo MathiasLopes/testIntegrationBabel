@@ -1,0 +1,11 @@
+/Users/mathias/Projects/testIntegrationBabel/testIntegrationBabel.Tests/bin/Debug/testIntegrationBabel.Tests.dll
+/Users/mathias/Projects/testIntegrationBabel/testIntegrationBabel.Tests/bin/Debug/testIntegrationBabel.Tests.pdb
+/Users/mathias/Projects/testIntegrationBabel/testIntegrationBabel.Tests/bin/Debug/nunit.framework.dll
+/Users/mathias/Projects/testIntegrationBabel/testIntegrationBabel.Tests/bin/Debug/testIntegrationBabel.dll
+/Users/mathias/Projects/testIntegrationBabel/testIntegrationBabel.Tests/bin/Debug/testIntegrationBabel.pdb
+/Users/mathias/Projects/testIntegrationBabel/testIntegrationBabel.Tests/bin/Debug/nunit.framework.xml
+/Users/mathias/Projects/testIntegrationBabel/testIntegrationBabel.Tests/obj/Debug/testIntegrationBabel.Tests.csprojAssemblyReference.cache
+/Users/mathias/Projects/testIntegrationBabel/testIntegrationBabel.Tests/obj/Debug/testIntegrationBabel.Tests.csproj.CoreCompileInputs.cache
+/Users/mathias/Projects/testIntegrationBabel/testIntegrationBabel.Tests/obj/Debug/testIntegrationBabel.Tests.csproj.CopyComplete
+/Users/mathias/Projects/testIntegrationBabel/testIntegrationBabel.Tests/obj/Debug/testIntegrationBabel.Tests.dll
+/Users/mathias/Projects/testIntegrationBabel/testIntegrationBabel.Tests/obj/Debug/testIntegrationBabel.Tests.pdb
