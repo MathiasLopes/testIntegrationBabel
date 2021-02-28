@@ -5,7 +5,8 @@
   "main": "babeltest.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "compile-es6-to-es5": "babel ./source -d ./dist"
+    "compile-es6-to-es5-babel": "babel ./source -d ./dist",
+    "compile-es6-to-es5-swc": "npx swc ./source -d ./dist"
   },
   "keywords": [],
   "author": "",

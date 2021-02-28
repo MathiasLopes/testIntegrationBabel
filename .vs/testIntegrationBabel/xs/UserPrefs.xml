@@ -1,20 +1,34 @@
 ﻿<Properties StartupConfiguration="{8899A24E-8423-41B4-9564-FFAFE0E65DC5}|">
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="testIntegrationBabel/webpage.aspx">
+    <Files>
+      <File FileName="testIntegrationBabel/babel.config.js" Line="9" Column="14" />
+      <File FileName="testIntegrationBabel/testIntegrationBabel.csproj" Line="98" Column="22" />
+      <File FileName="testIntegrationBabel/.swcrc" Line="6" Column="2" />
+      <File FileName="testIntegrationBabel/Web.config" Line="1" Column="1" />
+      <File FileName="testIntegrationBabel/webpack.config.js" Line="1" Column="1" />
+      <File FileName="testIntegrationBabel/packages.config" Line="1" Column="1" />
+      <File FileName="testIntegrationBabel/package.json" Line="1" Column="1" />
+      <File FileName="testIntegrationBabel/Global.asax" Line="1" Column="1" />
+      <File FileName="testIntegrationBabel/babeltest.js" Line="1" Column="1" />
+      <File FileName="testIntegrationBabel/webpage.aspx" Line="1" Column="1" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="testIntegrationBabel" expanded="True">
-            <Node name="testIntegrationBabel" selected="True" />
+            <Node name="testIntegrationBabel" expanded="True" />
+            <Node name="testIntegrationBabel.Tests" selected="True" />
           </Node>
         </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.testIntegrationBabel PreferredExecutionTarget="/Applications/Google Chrome.app" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <DisabledProjects>
-    <String>testIntegrationBabel.Tests/testIntegrationBabel.Tests.csproj</String>
-  </DisabledProjects>
+  <MonoDevelop.Ide.ItemProperties.testIntegrationBabel.Tests PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />

@@ -69,7 +69,6 @@
     <Content Include="source\testmathias3.js" />
     <Content Include="source\testmathias4.js" />
     <Content Include="source\testmathias5.js" />
-    <Content Include=".swcrc" />
     <Content Include="source\test.js" />
     <Content Include="babel.config.js" />
     <Content Include="source\testmathias6.js" />
@@ -92,8 +91,8 @@
     <Folder Include="source\" />
     <Folder Include="dist\" />
   </ItemGroup>
-    <Target Name="RunBabel" BeforeTargets="Build">
-        <Exec Command="npm run compile-es6-to-es5" />
+    <Target Name="RunTranspiler" BeforeTargets="Build">
+        <Exec Command="npm run compile-es6-to-es5-swc" />
     </Target>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
   <ProjectExtensions>
