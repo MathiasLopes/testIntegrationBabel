@@ -1,6 +1,0 @@
-{
-    "jsc": {
-        "target": "es5"
-    },
-    "minify": false
-}
