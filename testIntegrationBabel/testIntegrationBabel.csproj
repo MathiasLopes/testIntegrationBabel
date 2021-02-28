@@ -69,6 +69,7 @@
     <Content Include="source\testmathias3.js" />
     <Content Include="source\testmathias4.js" />
     <Content Include="source\testmathias5.js" />
+    <Content Include=".swcrc" />
     <Content Include="source\test.js" />
     <Content Include="babel.config.js" />
     <Content Include="source\testmathias6.js" />
