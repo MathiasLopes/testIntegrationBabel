@@ -2,16 +2,24 @@
   "name": "testIntegrationBabel",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "babeltest.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "compile-es6-to-es5": "babel ./source -d ./dist"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "@babel/cli": "^7.12.17",
+    "@babel/core": "^7.12.17",
+    "@babel/preset-env": "^7.12.17",
     "@swc/cli": "^0.1.35",
     "@swc/core": "^1.2.49",
-    "webpack": "^5.23.0"
+    "@swc/helpers": "^0.2.4"
+  },
+  "dependencies": {
+    "array.prototype.flatmap": "^1.2.4",
+    "core-js": "^3.9.0"
   }
 }

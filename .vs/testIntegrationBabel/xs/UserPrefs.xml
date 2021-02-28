@@ -1,25 +1,50 @@
-﻿<Properties StartupConfiguration="{8514E61B-9D95-4771-8E52-D0B96536D44D}|Tests unitaires">
-  <MonoDevelop.Ide.Workbench ActiveDocument="testIntegrationBabel/.swcrc">
+﻿<Properties StartupConfiguration="{8899A24E-8423-41B4-9564-FFAFE0E65DC5}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="testIntegrationBabel/source/testmathias6.js">
     <Files>
-      <File FileName="testIntegrationBabel/babel.config.js" Line="9" Column="14" />
-      <File FileName="testIntegrationBabel/testIntegrationBabel.csproj" Line="71" Column="49" />
-      <File FileName="testIntegrationBabel/.swcrc" Line="6" Column="2" />
+      <File FileName="testIntegrationBabel/Global.asax" Line="1" Column="58" />
+      <File FileName="testIntegrationBabel/webpage.aspx" Line="5" Column="24" />
+      <File FileName="testIntegrationBabel/webpage.aspx.cs" Line="1" Column="1" />
+      <File FileName="testIntegrationBabel/babeltest.js" Line="13" Column="30" />
+      <File FileName="testIntegrationBabel/Web.config" Line="9" Column="16" />
+      <File FileName="testIntegrationBabel/packages.config" Line="8" Column="12" />
+      <File FileName="testIntegrationBabel/package.json" Line="8" Column="24" />
+      <File FileName="testIntegrationBabel/source/babelmathias.js" Line="10" Column="1" />
+      <File FileName="testIntegrationBabel/webpack.config.js" Line="1" Column="1" />
+      <File FileName="testIntegrationBabel/testIntegrationBabel.csproj" Line="92" Column="31" />
+      <File FileName="testIntegrationBabel/source/testmathias4.js" Line="5" Column="4" />
+      <File FileName="testIntegrationBabel/source/testmathias3.js" Line="5" Column="1" />
+      <File FileName="testIntegrationBabel/source/testmathias5.js" Line="5" Column="4" />
+      <File FileName="testIntegrationBabel/source/testmathias2.js" Line="8" Column="1" />
+      <File FileName="testIntegrationBabel/source/test.js" Line="5" Column="27" />
+      <File FileName="testIntegrationBabel/source/testmathias.js" Line="1" Column="1" />
+      <File FileName="testIntegrationBabel/babel.config.js" Line="10" Column="10" />
+      <File FileName="testIntegrationBabel/source/testmathias6.js" Line="1" Column="15" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="testIntegrationBabel" expanded="True">
-            <Node name="testIntegrationBabel" selected="True" />
+            <Node name="testIntegrationBabel" expanded="True">
+              <Node name="source" expanded="True">
+                <Node name="testmathias6.js" selected="True" />
+              </Node>
+            </Node>
           </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="testIntegrationBabel" expanded="True" selected="True" />
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.testIntegrationBabel PreferredExecutionTarget="/Applications/Google Chrome.app" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.testIntegrationBabel.Tests PreferredExecutionTarget="MonoDevelop.Default" />
-  <DisabledProjects>
-    <String>testIntegrationBabel/testIntegrationBabel.csproj</String>
-  </DisabledProjects>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
